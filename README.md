@@ -7,11 +7,9 @@ A MERN application for basic tasks management.
 - [Features](#features)
 - [Tools and Technologies](#tools-and-technologies)
 - [Dependencies](#dependencies)
-- [Dev-dependencies](#dev-dependencies)
 - [Prerequisites](#prerequisites)
 - [Installation and setup](#installation-and-setup)
 - [Backend API](#backend-api)
-- [frontend pages](#frontend-pages)
 
 ## Features
 
@@ -24,9 +22,6 @@ A MERN application for basic tasks management.
 - View tasks
 - Update tasks
 - Delete tasks
-
-### Developer-side features
-
 - Form validations in frontend and backend
 - Token based Authentication
 - Global user state using Redux
@@ -63,12 +58,6 @@ A MERN application for basic tasks management.
 - jsonwebtoken
 - mongoose
 
-## Dev-dependencies
-
-Following are the major dev-dependencies of the project:
-
-- nodemon
-- concurrently
 
 ## Prerequisites
 
